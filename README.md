@@ -1,5 +1,4 @@
-# CS342 Assignment 2
-## Kaggle ID: cs342u1500212
+## CS342 Assignment 2, Kaggle ID: cs342u1500212
 
 ## FILE DIRECTORY:
 1. data_exploration.py - used for exploratory data analysis and plotting graphs for the report.
