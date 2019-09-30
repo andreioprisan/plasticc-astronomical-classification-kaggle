@@ -1,6 +1,6 @@
 ## CS342 Assignment 2, Kaggle ID: cs342u1500212
 
-## File Directory:
+## File directory:
 1. data_exploration.py - used for exploratory data analysis and plotting graphs for the report.
 2. data_augmentation.py - generates a new sliced and warped training set for time series to be stored in the current directory.
 3. sklearn_RF.py - implementation of Random Forest for Task 4 and 5.
