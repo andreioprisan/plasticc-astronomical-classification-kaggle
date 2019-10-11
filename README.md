@@ -1,4 +1,7 @@
-## CS342 Assignment 2, Kaggle ID: cs342u1500212
+## plasticc-astronomical-classification-kaggle
+
+CS342 Assignment 2
+Kaggle ID: cs342u1500212
 
 ## Directory:
 
