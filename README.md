@@ -1,8 +1,8 @@
 ## plasticc-astronomical-classification-kaggle
 
-CS342 Assignment 2
+CS342 Machine Learning Project 2
 
-Kaggle ID: cs342u1500212
+https://www.kaggle.com/c/PLAsTiCC-2018
 
 ## Abstract
 
@@ -13,11 +13,8 @@ The methods used for this Kaggle competition can be summarised in three main ste
 ## Directory:
 
     .
-    ├── CS342_ Assignment 2 Report.pdf  # Full Report
-    ├── data_exploration.py             # Exploratory Data Analysis
-    ├── data_augmentation.py            # Utility functions
-    ├── sklearn_RF.py                   # Random Forest Model
-    ├── sklearn_MLP.py                  # Multilayer Perceptron
-    ├── keras_MLP.py                    # Multilayer Perceptron
-    ├── keras_CNN.py                    # Convolutional Neural Networks
-    └── light_gbm_best_model.py         # LightGBM
+    ├── report.pdf                      # Full Report
+    ├── light_gbm.ipynb                 # LightGBM + FFT + Feature Engineering
+    ├── data_augmentation.ipynb         # Dynamic Time Warping
+    ├── data_exploration.ipynb          # Exploratory Data Analysis
+    └── code/                           # Folder for other experimental code
